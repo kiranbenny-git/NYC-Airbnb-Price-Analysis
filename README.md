@@ -1,0 +1,2 @@
+# NYC-Airbnb-Price-Analysis
+Airbnb, Inc. is an online marketplace for arranging or offering lodging, primarily homestays, or tourism experiences. The company does not own any of the real estate listings, nor does it host events; it acts as a broker, receiving commissions from each booking. The purpose of this notebook is to perform an exploratory data analysis on the various Airbnb listings data in New York City for the year 2019.
